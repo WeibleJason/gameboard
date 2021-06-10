@@ -1,0 +1,28 @@
+.board-tile {
+    height: 75px;
+    width: 75px;
+    display: inline-block;
+    position: absolute;
+}
+
+.black{
+    background-color: black;
+}
+
+.white{
+    background-color: white;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+
+
